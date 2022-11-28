@@ -71,4 +71,5 @@ Next we're going to chain commands again to print only the file included in the 
 <br>
 Lastly, the file that we dumped has a differnt name, we're going to check it to see if it is the original.<br>
 <br>
-
+<a href="https://imgur.com/Qf3JfGv"><img src="https://i.imgur.com/Qf3JfGv.png" title="source: imgur.com" /></a><br>
+<br>
